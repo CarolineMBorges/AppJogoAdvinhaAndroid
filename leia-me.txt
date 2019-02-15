@@ -1,0 +1,1 @@
+Jogo simples onde o usuário deve pensar um numero de 0 a 10 e o app sorteia randomicamente algum número de 0 a 10.
